@@ -7,8 +7,8 @@ def index(request):
     now = datetime.now()
     html = f'''
     <html>
-        <body>
-            <h1>Hello from Vercel!</h1>
+        <body style="background-color:gray">
+            <h1>Hello from Vercel by Artux!</h1>
             <p>The current time is { now }.</p>
         </body>
     </html>
