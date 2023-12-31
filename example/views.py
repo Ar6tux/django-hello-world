@@ -9,7 +9,7 @@ def index(request):
     <html>
         <body style="background-color:orange">
             <h3>Hello from Vercel by Artux!</h3>
-            <h1 style="font-color:white">by Artux!</h1>
+            <h1 style="color:white">by Artux!</h1>
             <p>The current time is { now }.</p>
         </body>
     </html>
